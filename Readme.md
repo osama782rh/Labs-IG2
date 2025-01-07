@@ -84,7 +84,7 @@ Chaque laboratoire aborde une problématique spécifique liée à la vision par 
 6. [**06-Suivi et Détection d'Objets dans des Vidéos**](https://www.notion.so/06-Suivi-et-D-tection-d-Objets-dans-des-Vid-os-16fc80d0d59d802c9c75f559074b97d7?pvs=21) : Application de suivi d'objets dans des vidéos de surveillance.
 7. [**07-Détection d'Objets avec YOLOv3 et OpenCV**](https://www.notion.so/07-D-tection-d-Objets-avec-YOLOv3-et-OpenCV-16fc80d0d59d80aaacd8d6968b647627?pvs=21) : Utilisation de YOLOv3 avec OpenCV pour la détection rapide d'objets.
 8. [**08-SurveillanceInnovationPedestrianDetection**](https://www.notion.so/08-SurveillanceInnovationPedestrian-Detection-16fc80d0d59d8071a519f35a8d076705?pvs=21) : Système avancé de détection de piétons pour des applications de surveillance.
-9. [Rapport Projet : MoodEye](https://www.notion.so/Rapport-Projet-MoodEye-174c80d0d59d80d084f6e0620eeafc4c?pvs=21)
+9. [**Rapport Projet : MoodEye**](https://www.notion.so/Rapport-Projet-MoodEye-174c80d0d59d80d084f6e0620eeafc4c?pvs=21)
 
 ## Fonctionnement du Menu Interactif
 
