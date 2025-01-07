@@ -104,7 +104,8 @@ Le script `main.py` à la racine du projet agit comme un point d'entrée central
 - **OpenCV** (`opencv-python` et `opencv-contrib-python`)  
 - **imutils**  
 - **dlib**  
-- **ffmpeg** (pour la conversion vidéo si nécessaire)  
+- **ffmpeg** (pour la conversion vidéo si nécessaire)
+- **torch**
 
 ### Installation des Dépendances :
 
