@@ -1,0 +1,4 @@
+# Ignorer les fichiers lourds
+*.mp4
+*.weights
+*.csv
